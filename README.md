@@ -1,7 +1,7 @@
 
 # An Empirical Study on Performance Test Coverage: Replication Package
 
-This repository contains the replication package for the paper "*An Empirical Study on Performance Test Coverage*". It includes all necessary scripts and instructions to replicate the experiments and analyses presented in the paper.
+This repository contains the replication package for the paper "*Is code coverage of performance tests related to source code features? An empirical study on open-source Java systems*". It includes all necessary scripts and instructions to replicate the experiments and analyses presented in the paper.
 
 ## Requirements
 
